@@ -1,6 +1,6 @@
 {
-  "version": "21.04.223 (patches 1.40.0.mpp)",
-  "versionCode": 3,
-  "zipUrl": "https://github.com/recky21-lap/revanced-morphe-builder/releases/download/3/youtube-morphe-module-v21.04.223-all.zip",
+  "version": "21.13.164 (patches 1.43.0.mpp)",
+  "versionCode": 6,
+  "zipUrl": "https://github.com/recky21-lap/revanced-morphe-builder/releases/download/6/youtube-morphe-module-v21.13.164-all.zip",
   "changelog": "https://raw.githubusercontent.com/recky21-lap/revanced-morphe-builder/update/build.md"
 }
